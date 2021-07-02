@@ -1,0 +1,19 @@
+Tier,LVL1,LVL2,LVL3,LVL4,Weight
+1,"""Gold"": 40","""Gold"": 50","""Gold"": 60","""Gold"": 70",40
+1,"""Wood"": 5","""Wood"": 6","""Wood"": 7","""Wood"": 8",20
+1,"""Stone"": 3","""Stone"": 4","""Stone"": 5","""Stone"": 6",20
+1,"""JettonForWheelFortune"": 2","""JettonForWheelFortune"": 2","""JettonForWheelFortune"": 2","""JettonForWheelFortune"": 3",10
+1,"""JettonForGuessCard"": 2","""JettonForGuessCard"": 2","""JettonForGuessCard"": 2","""JettonForGuessCard"": 3",10
+2,"""Gold"": 40","""Gold"": 50","""Gold"": 60","""Gold"": 70",35
+2,"""Wood"": 5","""Wood"": 6","""Wood"": 7","""Wood"": 8",15
+2,"""Stone"": 3","""Stone"": 4","""Stone"": 5","""Stone"": 6",15
+2,"""JettonForWheelFortune"": 2","""JettonForWheelFortune"": 2","""JettonForWheelFortune"": 2","""JettonForWheelFortune"": 3",10
+2,"""JettonForGuessCard"": 2","""JettonForGuessCard"": 2","""JettonForGuessCard"": 2","""JettonForGuessCard"": 3",10
+2,"""Metall"": 4","""Metall"": 5","""Metall"": 6","""Metall"": 7",15
+3,"""Gold"": 40","""Gold"": 50","""Gold"": 60","""Gold"": 70",35
+3,"""Wood"": 5","""Wood"": 6","""Wood"": 7","""Wood"": 8",10
+3,"""Stone"": 3","""Stone"": 4","""Stone"": 5","""Stone"": 6",10
+3,"""JettonForWheelFortune"": 2","""JettonForWheelFortune"": 2","""JettonForWheelFortune"": 2","""JettonForWheelFortune"": 3",10
+3,"""JettonForGuessCard"": 2","""JettonForGuessCard"": 2","""JettonForGuessCard"": 2","""JettonForGuessCard"": 3",10
+3,"""Metall"": 4","""Metall"": 5","""Metall"": 6","""Metall"": 7",15
+3,"""DragonTooth"": 2","""DragonTooth"": 3","""DragonTooth"": 4","""DragonTooth"": 5",10
