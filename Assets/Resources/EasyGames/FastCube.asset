@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86bb8626baf79ae40b8f318b7f65d0f1, type: 3}
+  m_Name: FastCube
+  m_EditorClassIdentifier: 
+  csv: {fileID: 4900000, guid: 94675c6715ccdb64ab8518ca4e6fb5cd, type: 3}
+  resources:
+  - resources:
+    - rewardTypeTemplate: {fileID: 11400000, guid: 37e49893da08a994298267fb28bcdfd8, type: 2}
+      countReward: 5
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: e5fff054a203dd5448abc5a9ced948a2, type: 2}
+      countReward: 1
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: fa2d26a1669d4bf40aaa8a46f9f3dc59, type: 2}
+      countReward: 1
+      timer: 
+      weight: 0
+  - resources:
+    - rewardTypeTemplate: {fileID: 11400000, guid: 37e49893da08a994298267fb28bcdfd8, type: 2}
+      countReward: 10
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: e5fff054a203dd5448abc5a9ced948a2, type: 2}
+      countReward: 2
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: fa2d26a1669d4bf40aaa8a46f9f3dc59, type: 2}
+      countReward: 1
+      timer: 
+      weight: 0
+  - resources:
+    - rewardTypeTemplate: {fileID: 11400000, guid: 37e49893da08a994298267fb28bcdfd8, type: 2}
+      countReward: 15
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: e5fff054a203dd5448abc5a9ced948a2, type: 2}
+      countReward: 2
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: fa2d26a1669d4bf40aaa8a46f9f3dc59, type: 2}
+      countReward: 2
+      timer: 
+      weight: 0
+  - resources:
+    - rewardTypeTemplate: {fileID: 11400000, guid: 37e49893da08a994298267fb28bcdfd8, type: 2}
+      countReward: 20
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: e5fff054a203dd5448abc5a9ced948a2, type: 2}
+      countReward: 2
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: fa2d26a1669d4bf40aaa8a46f9f3dc59, type: 2}
+      countReward: 2
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: 0dee8ff9ec6552c43be90b3b870327a0, type: 2}
+      countReward: 2
+      timer: 
+      weight: 0
+  - resources:
+    - rewardTypeTemplate: {fileID: 11400000, guid: 37e49893da08a994298267fb28bcdfd8, type: 2}
+      countReward: 25
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: e5fff054a203dd5448abc5a9ced948a2, type: 2}
+      countReward: 2
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: fa2d26a1669d4bf40aaa8a46f9f3dc59, type: 2}
+      countReward: 2
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: 0dee8ff9ec6552c43be90b3b870327a0, type: 2}
+      countReward: 2
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: b6e8688d072872246939904991762a3d, type: 2}
+      countReward: 1
+      timer: 
+      weight: 0
+  - resources:
+    - rewardTypeTemplate: {fileID: 11400000, guid: 37e49893da08a994298267fb28bcdfd8, type: 2}
+      countReward: 30
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: e5fff054a203dd5448abc5a9ced948a2, type: 2}
+      countReward: 3
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: fa2d26a1669d4bf40aaa8a46f9f3dc59, type: 2}
+      countReward: 3
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: 0dee8ff9ec6552c43be90b3b870327a0, type: 2}
+      countReward: 3
+      timer: 
+      weight: 0
+    - rewardTypeTemplate: {fileID: 11400000, guid: b6e8688d072872246939904991762a3d, type: 2}
+      countReward: 3
+      timer: 
+      weight: 0

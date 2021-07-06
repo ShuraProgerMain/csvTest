@@ -132,7 +132,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 43433029}
-  - component: {fileID: 43433028}
   m_Layer: 0
   m_Name: Csv
   m_TagString: Untagged
@@ -140,19 +139,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &43433028
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 43433027}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 750cb95beb6df254a8fda3e64531cd21, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _csv: {fileID: 4900000, guid: 515e26c9499c64145851b01fba17738c, type: 3}
 --- !u!4 &43433029
 Transform:
   m_ObjectHideFlags: 0
@@ -271,7 +257,6 @@ GameObject:
   - component: {fileID: 961618929}
   - component: {fileID: 961618928}
   - component: {fileID: 961618927}
-  - component: {fileID: 961618926}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -279,19 +264,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &961618926
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 961618925}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 750cb95beb6df254a8fda3e64531cd21, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _csv: {fileID: 4900000, guid: 2c0c970c9fe447a478f6e304fb658152, type: 3}
 --- !u!81 &961618927
 AudioListener:
   m_ObjectHideFlags: 0

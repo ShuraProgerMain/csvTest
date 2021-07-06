@@ -2,6 +2,6 @@
 [System.Serializable]
 public class ResourceTemplate
 {
-    public TypeResource resourceType;
+    public RewardTypeTemplate rewardTypeTemplate;
     public int countReward;
 }

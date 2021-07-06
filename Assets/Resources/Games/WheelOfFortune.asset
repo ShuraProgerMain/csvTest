@@ -1,0 +1,430 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91ac924625c5ec6488ba69ddf50784a6, type: 3}
+  m_Name: WheelOfFortune
+  m_EditorClassIdentifier: 
+  csv: {fileID: 4900000, guid: aec2a072255b1174f9947f918a243996, type: 3}
+  _tierLists:
+  - tierNumber: 1
+    listAllResources:
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 10
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 15
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 20
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 25
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 2
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 2
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 2
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 2
+          countReward: 4
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 4
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 5
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 4
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 15
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 20
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 25
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 30
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 5
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 3
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 6
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 4
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 5
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 7
+      - resourcesAll:
+        - resourceType: 2
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 2
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 2
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 2
+          countReward: 4
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 8
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 3
+  - tierNumber: 2
+    listAllResources:
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 4
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 5
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 20
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 25
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 30
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 1
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 1
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 1
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 1
+          countReward: 4
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 4
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 4
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 5
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 5
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 3
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 6
+      - resourcesAll:
+        - resourceType: 1
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 1
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 1
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 1
+          countReward: 4
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 7
+      - resourcesAll:
+        - resourceType: 2
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 2
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 2
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 2
+          countReward: 4
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 8
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 3
+  - tierNumber: 3
+    listAllResources:
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 10
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 20
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 25
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 30
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 2
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 2
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 2
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 2
+          countReward: 4
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 4
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 5
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 4
+      - resourcesAll:
+        - resourceType: 1
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 1
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 1
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 1
+          countReward: 4
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 5
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 3
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 6
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 4
+      - resourcesAll:
+        - resourceType: 3
+          countReward: 5
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 7
+      - resourcesAll:
+        - resourceType: 1
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 1
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 1
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 1
+          countReward: 4
+    - weight: 0
+      allResources:
+      - resourcesAll:
+        - resourceType: 0
+          countReward: 8
+      - resourcesAll:
+        - resourceType: 4
+          countReward: 1
+      - resourcesAll:
+        - resourceType: 4
+          countReward: 2
+      - resourcesAll:
+        - resourceType: 4
+          countReward: 3
+      - resourcesAll:
+        - resourceType: 4
+          countReward: 4
